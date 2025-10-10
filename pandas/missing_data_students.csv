@@ -1,0 +1,14 @@
+Student_ID,Name,Age,Gender,Math_Score,Science_Score,English_Score,Remarks
+1,Alice,17,Female,85,92,88,Excellent
+2,Bob,18,Male,78,,81,Good
+3,Charlie,17,Male,95,89,92,Excellent
+4,Diana,,Female,62,70,,Average
+5,Ethan,17,,88,84,90,Good
+6,Fiona,19,Female,,95,89,Excellent
+7,,18,Male,70,68,75,Poor
+8,Hannah,17,Female,85,90,87,Excellent
+9,Ian,20,Male,120,55,40,Poor
+10,Jessica,21,Female,,,,
+11,Alice,66,Female,85,92,88,Excellent
+12,Bob,18,Male,78,,81,Good
+13,Charlie,17,Male,95,89,92,Excellent
